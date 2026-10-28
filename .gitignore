@@ -1,0 +1,8 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de Word
+~$*
+
+.claude/
