@@ -6,7 +6,6 @@ Tecnicatura Universitaria en Programación a Distancia (TUP AD) · Universidad T
 Este repositorio reúne la documentación técnica del TPI, que desarrollé en cuatro entregas progresivas sobre un mismo caso de estudio. Las entregas 1, 2 y 3 ya fueron aprobadas; esta es la entrega final, que las integra y suma el modelado de procesos, el trabajo colaborativo con Git y GitHub, el tablero ágil y los mecanismos de control.
 
 - 📋 **Tablero de gestión (GitHub Projects):** [ver tablero](https://github.com/users/FranCant/projects/2)
-- 📄 **Documento final del TPI (PDF):** [docs/entregas/TPI_Final_NexoTech.pdf](docs/entregas/TPI_Final_NexoTech.pdf)
 
 ## Descripción del sistema
 
@@ -30,7 +29,7 @@ El objetivo general que definí en la Entrega 2 es desarrollar e implementar el 
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | `README.md`       | Esta portada: descripción del sistema, proceso BPMN, historias de usuario, indicadores de control y Declaración de Uso de IA |
 | `docs/bpmn/`      | Modelo BPMN del proceso: archivo `.bpmn` editable e imagen `.png`                                                            |
-| `docs/entregas/`  | Las Entregas 1, 2 y 3 aprobadas, en PDF, y el PDF final consolidado con las cuatro entregas                                  |
+| `docs/entregas/`  | Las Entregas 1, 2 y 3 aprobadas, en PDF                                  |
 
 ## Recorrido del TPI
 
